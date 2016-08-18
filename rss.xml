@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SEVEN TEN SPLIT BOWLING]]></title>
         <description><![CDATA[SEVEN TEN SPLIT BOWLING]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/7-10-split-bowling/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 12:22:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 12:22:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/7-10-split-bowling/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4df8d39b-a4a3-499e-be27-3ea2b7682cef.jpg">]]></description>
+            <link>https://thegrid.ai/7-10-split-bowling/93eaacc7-7ce1-4c1d-825b-b04273025c33/index.html</link>
+            <guid isPermaLink="false">93eaacc7-7ce1-4c1d-825b-b04273025c33</guid>
+            <pubDate>Thu, 18 Aug 2016 12:22:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5d83efe-2da2-414b-b5a5-e0089d502d2c.jpg">]]></description>
-            <link>undefined0b4f203c-77f3-48b8-88a8-0420d88c943b/index.html</link>
+            <link>https://thegrid.ai/7-10-split-bowling/0b4f203c-77f3-48b8-88a8-0420d88c943b/index.html</link>
             <guid isPermaLink="false">0b4f203c-77f3-48b8-88a8-0420d88c943b</guid>
             <pubDate>Thu, 18 Aug 2016 12:22:03 GMT</pubDate>
         </item>
